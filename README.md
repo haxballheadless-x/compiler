@@ -2,7 +2,7 @@ HHX Compiler is a way to organize your code to go up to Haxball Headless.
 
 
 
-**## Installation**
+## Installation
 
 #### NPM
 
