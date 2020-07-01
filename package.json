@@ -1,9 +1,10 @@
 {
   "name": "@hhxjs/compiler",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "./src/index.js",
   "dependencies": {
     "@babel/core": "^7.10.3",
+    "@hhxjs/compiler": "^1.0.2",
     "babelify": "^10.0.0",
     "browserify": "^16.5.1",
     "chalk": "^4.1.0",
