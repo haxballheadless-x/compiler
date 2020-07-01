@@ -1,0 +1,35 @@
+{
+  "name": "@hhxjs/compiler",
+  "version": "1.0.2",
+  "main": "./src/index.js",
+  "dependencies": {
+    "@babel/core": "^7.10.3",
+    "babelify": "^10.0.0",
+    "browserify": "^16.5.1",
+    "chalk": "^4.1.0",
+    "ora": "^4.0.4",
+    "uglifyify": "^5.0.2"
+  },
+  "description": "HHX Compiler is a way to organize your code to go up to Haxball Headless.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tyde#8696",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haxballheadless-x/compiler.git"
+  },
+  "keywords": [
+    "haxball",
+    "haxball",
+    "headless",
+    "hhx",
+    "hhx",
+    "compiler"
+  ],
+  "bugs": {
+    "url": "https://github.com/haxballheadless-x/compiler/issues"
+  },
+  "homepage": "https://github.com/haxballheadless-x/compiler#readme"
+}
