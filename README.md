@@ -46,6 +46,6 @@ client.compile("dist/script.js"); // √ Generated in dist/script.js
 ---
 
 ### Plugins
-- [Command](https://github.com/haxballheadless-x/compiler/tree/master/src/plugins/command)
-- [Database](https://github.com/haxballheadless-x/compiler/tree/master/src/plugins/database)
-- [Moderation](https://github.com/haxballheadless-x/compiler/tree/master/src/plugins/moderation)
+- [Command](https://github.com/haxballheadless-x/compiler/tree/master/plugins/command)
+- [Database](https://github.com/haxballheadless-x/compiler/tree/master/plugins/database)
+- [Moderation](https://github.com/haxballheadless-x/compiler/tree/master/plugins/moderation)

@@ -1,6 +1,6 @@
 {
   "name": "@hhxjs/compiler",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "main": "./src/index.js",
   "dependencies": {
     "@babel/core": "^7.10.3",
