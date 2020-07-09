@@ -3,6 +3,11 @@ class Command {
     this.config = config;
     this.room = room;
   }
+  /**
+   * 
+   * @param {string} message - Message object 
+   * @param {callback} callback - Callback
+   */
   createCommand(message, callback) {
     if (this.config.commandName && this.config.prefix) {
 

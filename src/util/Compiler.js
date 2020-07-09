@@ -4,6 +4,10 @@ const chalk = require("chalk");
 const ora = require("ora");
 
 class Compiler {
+  /**
+   * 
+   * @param {string} build  - File to generate the bundle
+   */
   compile(build) {
     if (!fs.existsSync(`${process.cwd()}/${build.split(/(\\)|(\/)/g)[0]}`)) {
       fs.mkdirSync(`${process.cwd()}/${build.split(/(\\)|(\/)/g)[0]}`);
